@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415723503365",
+    "firebase_url": "https://lessons-a2bf2.firebaseio.com",
+    "project_id": "lessons-a2bf2",
+    "storage_bucket": "lessons-a2bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415723503365:android:fb8578b82e03beec",
+        "android_client_info": {
+          "package_name": "com.example.thirtyseven.lessons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415723503365-qdji3ne1d6kh1pf199rmceluaaslhlaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thirtyseven.lessons",
+            "certificate_hash": "90f7777884964351cd807f24e00e630963fc1bf0"
+          }
+        },
+        {
+          "client_id": "415723503365-jmtkb2u14t4gmauhch0lbk3fi2oge7bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftu-02PzlYAQ17TrVz6BpG99SptEorps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415723503365-jmtkb2u14t4gmauhch0lbk3fi2oge7bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
